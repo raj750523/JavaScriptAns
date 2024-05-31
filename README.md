@@ -38,6 +38,8 @@ The script demonstrates the following array manipulation methods:
 - `reverse()`
 - `splice()`
 - `slice()`
+
+
 //3- Join
 //The join() method also joins all array elements into a string.
 
@@ -101,6 +103,7 @@ console.log(num1.length)*/
 
 //splice() and slice()
 //The splice() method can be used to add new items to an array:
+
 //The slice() method is used to extract a section of an array and return it as a new
 
 let splice = [551, 22, 3, 14, 5, 6, 7, 8, 229]
